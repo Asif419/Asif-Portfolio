@@ -1,6 +1,7 @@
 import About from "../About/About";
 import Contact from "../Contact/Contact";
 import Experience from "../Experience/Experience";
+import HomeFooter from "../HomeFooter/HomeFooter";
 import HomeHeader from "../HomeHeader/HomeHeader";
 import Navbar from "../Navbar/Navbar";
 import Portfolio from "../Portfolio/Portfolio";
@@ -18,6 +19,7 @@ const Home = () => {
       <Portfolio />
       <Testimonials />
       <Contact />
+      <HomeFooter />
     </>
   );
 };
