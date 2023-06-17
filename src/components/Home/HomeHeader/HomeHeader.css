@@ -1,0 +1,16 @@
+
+
+.asif {
+  background: linear-gradient(var(--color-primary), transparent);
+  width: 16rem;
+  height: 20rem;
+  /* this will move to center */
+  left: calc(50% - 8rem);
+  /* or, it will work */
+  /* left: 50% */
+  /* transform: translateX(-50%) */
+  margin-top: 4rem;
+  border-radius: 12rem 12rem 0 0;
+  overflow: hidden;
+  padding: 3rem 0 0 0;
+}
