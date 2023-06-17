@@ -1,9 +1,9 @@
 
 const Portfolio = () => {
   return (
-    <div>
+    <section id="portfolio">
       <h2>Portfolio</h2>
-    </div>
+    </section>
   );
 };
 

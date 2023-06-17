@@ -10,7 +10,7 @@ import Testimonials from "../Testimonials/Testimonials";
 
 const Home = () => {
   return (
-    <>
+    <div id="#">
       <HomeHeader />
       <Navbar />
       <About />
@@ -20,7 +20,7 @@ const Home = () => {
       <Testimonials />
       <Contact />
       <HomeFooter />
-    </>
+    </div>
   );
 };
 
